@@ -1,0 +1,8 @@
+[project]
+org-name= "kasthuriraajan"
+version= "0.1.4"
+
+[build-options]
+observability-included=true
+
+[dependencies]
